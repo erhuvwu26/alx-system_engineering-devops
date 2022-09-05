@@ -1,1 +1,1 @@
-6. Line #2
+4. Last lines of a file
