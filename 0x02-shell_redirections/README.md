@@ -1,1 +1,1 @@
-12. What’s new
+10. No more javascript
