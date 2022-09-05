@@ -1,1 +1,1 @@
-13. Being unique is better than being perfect
+12. What’s new
