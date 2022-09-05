@@ -1,2 +1,1 @@
-21. esreveR
-Write a script that reverse its input.
+20. Without C, you would live in hiago
